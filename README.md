@@ -4,3 +4,6 @@
 
 ## [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 ![Pseudocode](pics/factory_method.png "Factory Method")
+
+## [Builder](https://refactoring.guru/design-patterns/builder)
+![Pseudocode](pics/builder.png "Builder")
